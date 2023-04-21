@@ -1,0 +1,26 @@
+{
+  "name": "goit-node-hw-01",
+  "version": "1.0.0",
+  "description": "first homework at node-js",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Remix007/goit-node-hw-01.git"
+  },
+  "author": "Roman Palchynskyi <YOUR_EMAILforvard16back@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Remix007/goit-node-hw-01/issues"
+  },
+  "homepage": "https://github.com/Remix007/goit-node-hw-01#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "yargs": "^17.6.0"
+  }
+}
